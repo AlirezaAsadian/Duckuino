@@ -1,4 +1,3 @@
-#Duckuino
 ##Live version here: https://alirezaasadian.github.io/Duckuino/
 DuckyScript -> Arduino converter/compiler + HID mouse emulation.
 
